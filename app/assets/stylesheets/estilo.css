@@ -1,0 +1,23 @@
+
+.main-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    height: 100vh;
+    
+    
+}
+
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.btn {
+
+    background-color: black;
+    border-color: black;
+}
